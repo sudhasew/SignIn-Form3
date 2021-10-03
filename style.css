@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: blue;
+}
+.container {
+  background-color: white;
+  height: 70vh;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 600px;
+  color: #adadad;
+}
+.table {
+  margin: 140px;
+}
