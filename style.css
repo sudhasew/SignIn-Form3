@@ -1,7 +1,6 @@
 body {
   margin: 100px;
   padding: 10px;
-  justify-content: center;
 }
 
 .container {
@@ -21,5 +20,4 @@ body {
   left: 50%;
   transform: translate(-50%, -50%);
   padding: 2px;
-  margin: auto 0;
 }
